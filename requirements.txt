@@ -1,0 +1,4 @@
+bitcoinaddress
+requests
+smtplib
+ssl
